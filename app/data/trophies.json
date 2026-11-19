@@ -1,0 +1,832 @@
+{
+  "game": "Grand Theft Auto VI",
+  "platform": "PlayStation 5",
+  "list": "the official 55 trophies, 2026-11-18",
+  "trophies": [
+    {
+      "id": 1,
+      "name": "Vice Got a Price!",
+      "description": "Congratulations! You're a Leonida Legend.",
+      "grade": "platinum",
+      "guide": "Complete every other trophy in the list; the platinum unlocks automatically after the remaining 54 are earned. Treat this as the final confirmation rather than a separate task, and it cannot be missed.",
+      "sources": [
+        "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/",
+        "https://psnprofiles.com/trophies/grand-theft-auto-vi"
+      ],
+      "missable": false,
+      "hidden": false,
+      "kind": "other",
+      "stage": "CLEANUP"
+    },
+    {
+      "id": 2,
+      "name": "Just Like Paradise",
+      "description": "Complete Gone Fishing.",
+      "grade": "bronze",
+      "guide": "Play the opening mission, Gone Fishing, and carry it through to its completion screen. This is part of the main path and cannot be missed while finishing the story.",
+      "sources": [
+        "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/",
+        "https://psnprofiles.com/trophies/grand-theft-auto-vi"
+      ],
+      "missable": false,
+      "hidden": true,
+      "kind": "story",
+      "stage": "STORY"
+    },
+    {
+      "id": 3,
+      "name": "Paradise Lost",
+      "description": "Complete Chapter 1.",
+      "grade": "bronze",
+      "guide": "Finish every required mission in Chapter 1 until the chapter-complete award appears. It is story-bound and cannot be missed on a completed campaign.",
+      "sources": [
+        "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/",
+        "https://psnprofiles.com/trophies/grand-theft-auto-vi"
+      ],
+      "missable": false,
+      "hidden": true,
+      "kind": "story",
+      "stage": "STORY"
+    },
+    {
+      "id": 4,
+      "name": "T**s Ass Drug Money",
+      "description": "Complete Chapter 2.",
+      "grade": "bronze",
+      "guide": "Finish every required mission in Chapter 2 and advance past its closing sequence. It is story-bound and cannot be missed on a completed campaign.",
+      "sources": [
+        "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/",
+        "https://psnprofiles.com/trophies/grand-theft-auto-vi"
+      ],
+      "missable": false,
+      "hidden": true,
+      "kind": "story",
+      "stage": "STORY"
+    },
+    {
+      "id": 5,
+      "name": "Vice City, Baby!",
+      "description": "Complete Chapter 3.",
+      "grade": "bronze",
+      "guide": "Finish every required mission in Chapter 3 and advance into the next chapter. It is story-bound and cannot be missed on a completed campaign.",
+      "sources": [
+        "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/",
+        "https://psnprofiles.com/trophies/grand-theft-auto-vi"
+      ],
+      "missable": false,
+      "hidden": true,
+      "kind": "story",
+      "stage": "STORY"
+    },
+    {
+      "id": 6,
+      "name": "Top Of The World, Ma",
+      "description": "Complete Chapter 4.",
+      "grade": "bronze",
+      "guide": "Finish every required mission in Chapter 4 and let the chapter completion register. It is story-bound and cannot be missed on a completed campaign.",
+      "sources": [
+        "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/",
+        "https://psnprofiles.com/trophies/grand-theft-auto-vi"
+      ],
+      "missable": false,
+      "hidden": true,
+      "kind": "story",
+      "stage": "STORY"
+    },
+    {
+      "id": 7,
+      "name": "You Gotta Know When to Get Off",
+      "description": "Complete the final mission.",
+      "grade": "gold",
+      "guide": "Complete the campaign’s final mission after clearing any unfinished free-roam work you want to do first. The trophy itself is story-bound, but this mission is the roadmap’s point of no return for the cleanest one-playthrough route.",
+      "sources": [
+        "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/",
+        "https://psnprofiles.com/trophies/grand-theft-auto-vi"
+      ],
+      "missable": false,
+      "hidden": true,
+      "kind": "story",
+      "stage": "STORY"
+    },
+    {
+      "id": 8,
+      "name": "Trust",
+      "description": "Complete Breakfast Run.",
+      "grade": "bronze",
+      "guide": "Complete Breakfast Run; use the in-game trophy tracker or activity record to confirm the requirement has registered. Work on it during free roam or post-story cleanup, and it is not missable.",
+      "sources": [
+        "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/",
+        "https://psnprofiles.com/trophies/grand-theft-auto-vi"
+      ],
+      "missable": false,
+      "hidden": true,
+      "kind": "story",
+      "stage": "STORY"
+    },
+    {
+      "id": 9,
+      "name": "Break the Bank",
+      "description": "Complete The Cartel Heist.",
+      "grade": "bronze",
+      "guide": "Complete The Cartel Heist; use the in-game trophy tracker or activity record to confirm the requirement has registered. Work on it during free roam or post-story cleanup, and it is not missable.",
+      "sources": [
+        "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/",
+        "https://psnprofiles.com/trophies/grand-theft-auto-vi"
+      ],
+      "missable": false,
+      "hidden": true,
+      "kind": "story",
+      "stage": "STORY"
+    },
+    {
+      "id": 10,
+      "name": "Family Matters",
+      "description": "Complete Child's Play.",
+      "grade": "bronze",
+      "guide": "Complete Child's Play; use the in-game trophy tracker or activity record to confirm the requirement has registered. Work on it during free roam or post-story cleanup, and it is not missable.",
+      "sources": [
+        "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/",
+        "https://psnprofiles.com/trophies/grand-theft-auto-vi"
+      ],
+      "missable": false,
+      "hidden": true,
+      "kind": "story",
+      "stage": "STORY"
+    },
+    {
+      "id": 11,
+      "name": "DWNFALL",
+      "description": "Complete Headliners.",
+      "grade": "bronze",
+      "guide": "Complete Headliners; use the in-game trophy tracker or activity record to confirm the requirement has registered. Work on it during free roam or post-story cleanup, and it is not missable.",
+      "sources": [
+        "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/",
+        "https://psnprofiles.com/trophies/grand-theft-auto-vi"
+      ],
+      "missable": false,
+      "hidden": true,
+      "kind": "story",
+      "stage": "STORY"
+    },
+    {
+      "id": 12,
+      "name": "Hi-Jacked",
+      "description": "Complete VCIA Takedown.",
+      "grade": "bronze",
+      "guide": "Complete VCIA Takedown; use the in-game trophy tracker or activity record to confirm the requirement has registered. Work on it during free roam or post-story cleanup, and it is not missable.",
+      "sources": [
+        "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/",
+        "https://psnprofiles.com/trophies/grand-theft-auto-vi"
+      ],
+      "missable": false,
+      "hidden": true,
+      "kind": "story",
+      "stage": "STORY"
+    },
+    {
+      "id": 13,
+      "name": "Snow Storm",
+      "description": "Complete Operation Savage Glory.",
+      "grade": "bronze",
+      "guide": "Complete Operation Savage Glory; use the in-game trophy tracker or activity record to confirm the requirement has registered. Work on it during free roam or post-story cleanup, and it is not missable.",
+      "sources": [
+        "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/",
+        "https://psnprofiles.com/trophies/grand-theft-auto-vi"
+      ],
+      "missable": false,
+      "hidden": true,
+      "kind": "story",
+      "stage": "STORY"
+    },
+    {
+      "id": 14,
+      "name": "A Long Road",
+      "description": "Attain 100% Completion.",
+      "grade": "gold",
+      "guide": "Raise the in-game completion statistic to 100% by clearing its required story, activity, discovery, and collection categories. Check the completion menu after the story and clean up any remaining category; this is not missable.",
+      "sources": [
+        "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/",
+        "https://psnprofiles.com/trophies/grand-theft-auto-vi"
+      ],
+      "missable": false,
+      "hidden": false,
+      "kind": "other",
+      "stage": "CLEANUP"
+    },
+    {
+      "id": 15,
+      "name": "Cunning Stunts",
+      "description": "Complete 250 Stunts.",
+      "grade": "silver",
+      "guide": "Complete 250 stunts, using the game’s stunt counter to avoid repeating work that has already registered. Fold these into exploration and vehicle cleanup, and finish any remainder after the story; this is not missable.",
+      "sources": [
+        "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/",
+        "https://psnprofiles.com/trophies/grand-theft-auto-vi"
+      ],
+      "missable": false,
+      "hidden": false,
+      "kind": "activities",
+      "stage": "CLEANUP"
+    },
+    {
+      "id": 16,
+      "name": "Master of None",
+      "description": "Try each type of activity once.",
+      "grade": "bronze",
+      "guide": "Try each type of activity once; use the in-game trophy tracker or activity record to confirm the requirement has registered. Work on it during free roam or post-story cleanup, and it is not missable.",
+      "sources": [
+        "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/",
+        "https://psnprofiles.com/trophies/grand-theft-auto-vi"
+      ],
+      "missable": false,
+      "hidden": false,
+      "kind": "activities",
+      "stage": "CLEANUP"
+    },
+    {
+      "id": 17,
+      "name": "The Shootist",
+      "description": "Earn a gold medal in all Shooting Range challenges.",
+      "grade": "silver",
+      "guide": "Earn a gold medal in every Shooting Range challenge; the official tracked total is 42. Revisit ranges until every challenge shows gold, and handle this during activity cleanup because it is not missable.",
+      "sources": [
+        "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/",
+        "https://psnprofiles.com/trophies/grand-theft-auto-vi"
+      ],
+      "missable": false,
+      "hidden": false,
+      "kind": "activities",
+      "stage": "CLEANUP"
+    },
+    {
+      "id": 18,
+      "name": "Top Fun",
+      "description": "Win a Top Fun Drone Race at every location.",
+      "grade": "bronze",
+      "guide": "Win a Top Fun Drone Race at every location; the official tracked total is 14. Mark each location after a win and revisit any missing venue during free roam; this is not missable.",
+      "sources": [
+        "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/",
+        "https://psnprofiles.com/trophies/grand-theft-auto-vi"
+      ],
+      "missable": false,
+      "hidden": false,
+      "kind": "activities",
+      "stage": "CLEANUP"
+    },
+    {
+      "id": 19,
+      "name": "Earn Cash, Not Kudos",
+      "description": "Win 20 different races.",
+      "grade": "bronze",
+      "guide": "Win 20 different races; use the in-game trophy tracker or activity record to confirm the requirement has registered. Work on it during free roam or post-story cleanup, and it is not missable.",
+      "sources": [
+        "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/",
+        "https://psnprofiles.com/trophies/grand-theft-auto-vi"
+      ],
+      "missable": false,
+      "hidden": false,
+      "kind": "activities",
+      "stage": "CLEANUP"
+    },
+    {
+      "id": 20,
+      "name": "Baited My Tackle",
+      "description": "Beat Cal in a fishing challenge.",
+      "grade": "bronze",
+      "guide": "Beat Cal in a fishing challenge; use the in-game trophy tracker or activity record to confirm the requirement has registered. Work on it during free roam or post-story cleanup, and it is not missable.",
+      "sources": [
+        "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/",
+        "https://psnprofiles.com/trophies/grand-theft-auto-vi"
+      ],
+      "missable": false,
+      "hidden": false,
+      "kind": "activities",
+      "stage": "CLEANUP"
+    },
+    {
+      "id": 21,
+      "name": "Stick Fiddler",
+      "description": "Complete an arcade game.",
+      "grade": "bronze",
+      "guide": "Complete an arcade game; use the in-game trophy tracker or activity record to confirm the requirement has registered. Work on it during free roam or post-story cleanup, and it is not missable.",
+      "sources": [
+        "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/",
+        "https://psnprofiles.com/trophies/grand-theft-auto-vi"
+      ],
+      "missable": false,
+      "hidden": false,
+      "kind": "activities",
+      "stage": "CLEANUP"
+    },
+    {
+      "id": 22,
+      "name": "Road to Rehabilitation",
+      "description": "Complete the final mission for Andy.",
+      "grade": "bronze",
+      "guide": "Complete the final mission for Andy; use the in-game trophy tracker or activity record to confirm the requirement has registered. Work on it during free roam or post-story cleanup, and it is not missable.",
+      "sources": [
+        "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/",
+        "https://psnprofiles.com/trophies/grand-theft-auto-vi"
+      ],
+      "missable": false,
+      "hidden": false,
+      "kind": "other",
+      "stage": "CLEANUP"
+    },
+    {
+      "id": 23,
+      "name": "This Was No Boat Accident",
+      "description": "Complete the final mission for Kenton.",
+      "grade": "bronze",
+      "guide": "Complete the final mission for Kenton; use the in-game trophy tracker or activity record to confirm the requirement has registered. Work on it during free roam or post-story cleanup, and it is not missable.",
+      "sources": [
+        "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/",
+        "https://psnprofiles.com/trophies/grand-theft-auto-vi"
+      ],
+      "missable": false,
+      "hidden": false,
+      "kind": "other",
+      "stage": "CLEANUP"
+    },
+    {
+      "id": 24,
+      "name": "The Lone Rider",
+      "description": "Complete the final mission for Billy.",
+      "grade": "bronze",
+      "guide": "Complete the final mission for Billy; use the in-game trophy tracker or activity record to confirm the requirement has registered. Work on it during free roam or post-story cleanup, and it is not missable.",
+      "sources": [
+        "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/",
+        "https://psnprofiles.com/trophies/grand-theft-auto-vi"
+      ],
+      "missable": false,
+      "hidden": false,
+      "kind": "other",
+      "stage": "CLEANUP"
+    },
+    {
+      "id": 25,
+      "name": "Strangers & Freaks",
+      "description": "Complete 8 mission strands for strangers across the state of Leonida.",
+      "grade": "silver",
+      "guide": "Complete eight full stranger mission strands across Leonida, not merely eight individual encounters. Finish each chosen character’s chain through its last mission before counting it, and do this before the finale for the safest route.",
+      "sources": [
+        "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/",
+        "https://psnprofiles.com/trophies/grand-theft-auto-vi"
+      ],
+      "missable": false,
+      "hidden": false,
+      "kind": "activities",
+      "stage": "CLEANUP"
+    },
+    {
+      "id": 26,
+      "name": "Supply & Demand",
+      "description": "Complete the final mission for Randy.",
+      "grade": "bronze",
+      "guide": "Complete the final mission for Randy; use the in-game trophy tracker or activity record to confirm the requirement has registered. Work on it during free roam or post-story cleanup, and it is not missable.",
+      "sources": [
+        "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/",
+        "https://psnprofiles.com/trophies/grand-theft-auto-vi"
+      ],
+      "missable": false,
+      "hidden": false,
+      "kind": "other",
+      "stage": "CLEANUP"
+    },
+    {
+      "id": 27,
+      "name": "Spin On This!",
+      "description": "Complete the final mission for Tyrone.",
+      "grade": "bronze",
+      "guide": "Complete the final mission for Tyrone; use the in-game trophy tracker or activity record to confirm the requirement has registered. Work on it during free roam or post-story cleanup, and it is not missable.",
+      "sources": [
+        "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/",
+        "https://psnprofiles.com/trophies/grand-theft-auto-vi"
+      ],
+      "missable": false,
+      "hidden": false,
+      "kind": "other",
+      "stage": "CLEANUP"
+    },
+    {
+      "id": 28,
+      "name": "Positive Mental Attitude",
+      "description": "Meditate at every spot across Leonida.",
+      "grade": "bronze",
+      "guide": "Meditate at every marked spot across Leonida; the official tracked total is 18. Pair the locations with map exploration and verify each one registers before leaving; this is not missable.",
+      "sources": [
+        "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/",
+        "https://psnprofiles.com/trophies/grand-theft-auto-vi"
+      ],
+      "missable": false,
+      "hidden": false,
+      "kind": "collectibles",
+      "stage": "COLLECTIBLES"
+    },
+    {
+      "id": 29,
+      "name": "Fair Game",
+      "description": "Hunt a unique animal for Bret.",
+      "grade": "bronze",
+      "guide": "Hunt a unique animal for Bret; use the in-game trophy tracker or activity record to confirm the requirement has registered. Work on it during free roam or post-story cleanup, and it is not missable.",
+      "sources": [
+        "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/",
+        "https://psnprofiles.com/trophies/grand-theft-auto-vi"
+      ],
+      "missable": false,
+      "hidden": false,
+      "kind": "activities",
+      "stage": "CLEANUP"
+    },
+    {
+      "id": 30,
+      "name": "Don't Touch My Deck",
+      "description": "Complete 3 Collectible Card sets.",
+      "grade": "silver",
+      "guide": "Finish three complete Collectible Card sets, following the collection menu rather than mixing partial sets. Save collection cleanup for after broad exploration; none of the required cards is flagged as missable by the official description.",
+      "sources": [
+        "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/",
+        "https://psnprofiles.com/trophies/grand-theft-auto-vi"
+      ],
+      "missable": false,
+      "hidden": false,
+      "kind": "collectibles",
+      "stage": "COLLECTIBLES"
+    },
+    {
+      "id": 31,
+      "name": "You WAiNKer!",
+      "description": "WAiNK It at 100 locations.",
+      "grade": "silver",
+      "guide": "Perform WAiNK It at 100 distinct locations and use the tracked count to confirm progress. Clear these while moving through new areas, then sweep the remainder after the story; this is not missable.",
+      "sources": [
+        "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/",
+        "https://psnprofiles.com/trophies/grand-theft-auto-vi"
+      ],
+      "missable": false,
+      "hidden": false,
+      "kind": "collectibles",
+      "stage": "COLLECTIBLES"
+    },
+    {
+      "id": 32,
+      "name": "One Last Thing",
+      "description": "Complete 50 Challenges.",
+      "grade": "bronze",
+      "guide": "Complete 50 Challenges; use the in-game trophy tracker or activity record to confirm the requirement has registered. Work on it during free roam or post-story cleanup, and it is not missable.",
+      "sources": [
+        "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/",
+        "https://psnprofiles.com/trophies/grand-theft-auto-vi"
+      ],
+      "missable": false,
+      "hidden": false,
+      "kind": "activities",
+      "stage": "CLEANUP"
+    },
+    {
+      "id": 33,
+      "name": "Hot Together",
+      "description": "Lose a 4 star Wanted Level with your partner and escape the heat.",
+      "grade": "bronze",
+      "guide": "Lose a 4 star Wanted Level with your partner and escape the heat; use the in-game trophy tracker or activity record to confirm the requirement has registered. Work on it during free roam or post-story cleanup, and it is not missable.",
+      "sources": [
+        "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/",
+        "https://psnprofiles.com/trophies/grand-theft-auto-vi"
+      ],
+      "missable": false,
+      "hidden": false,
+      "kind": "activities",
+      "stage": "CLEANUP"
+    },
+    {
+      "id": 34,
+      "name": "Retail Therapy",
+      "description": "Rob 3 shops back-to-back with your partner without losing your Wanted Level.",
+      "grade": "bronze",
+      "guide": "Rob 3 shops back-to-back with your partner without losing your Wanted Level; use the in-game trophy tracker or activity record to confirm the requirement has registered. Work on it during free roam or post-story cleanup, and it is not missable.",
+      "sources": [
+        "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/",
+        "https://psnprofiles.com/trophies/grand-theft-auto-vi"
+      ],
+      "missable": false,
+      "hidden": false,
+      "kind": "activities",
+      "stage": "CLEANUP"
+    },
+    {
+      "id": 35,
+      "name": "Whip It Good",
+      "description": "Discover 100 vehicles.",
+      "grade": "bronze",
+      "guide": "Discover 100 vehicles; use the in-game trophy tracker or activity record to confirm the requirement has registered. Work on it during free roam or post-story cleanup, and it is not missable.",
+      "sources": [
+        "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/",
+        "https://psnprofiles.com/trophies/grand-theft-auto-vi"
+      ],
+      "missable": false,
+      "hidden": false,
+      "kind": "collectibles",
+      "stage": "COLLECTIBLES"
+    },
+    {
+      "id": 36,
+      "name": "Gunslinger",
+      "description": "Take down 5 enemies in a single use of Combat Focus.",
+      "grade": "bronze",
+      "guide": "Take down 5 enemies in a single use of Combat Focus; use the in-game trophy tracker or activity record to confirm the requirement has registered. Work on it during free roam or post-story cleanup, and make a manual save before the relevant encounter because the opportunity can be missed.",
+      "sources": [
+        "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/",
+        "https://psnprofiles.com/trophies/grand-theft-auto-vi"
+      ],
+      "missable": true,
+      "hidden": true,
+      "kind": "activities",
+      "stage": "BEFORE FINALE"
+    },
+    {
+      "id": 37,
+      "name": "Catch Me If You Can",
+      "description": "Make an unscheduled departure at VCIA.",
+      "grade": "bronze",
+      "guide": "During the VCIA sequence, trigger the special unscheduled departure implied by the description rather than taking the normal exit. Make a manual save before the mission or sequence because this situational action can be missed.",
+      "sources": [
+        "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/",
+        "https://psnprofiles.com/trophies/grand-theft-auto-vi"
+      ],
+      "missable": true,
+      "hidden": true,
+      "kind": "other",
+      "stage": "BEFORE FINALE"
+    },
+    {
+      "id": 38,
+      "name": "Challenging Tank",
+      "description": "Kinda hot in these Rhinos.",
+      "grade": "bronze",
+      "guide": "Use a Rhino during the relevant high-heat opportunity and satisfy the hidden condition before the encounter ends. Keep a manual save before attempting it because the official clue is situational and the opportunity can be missed.",
+      "sources": [
+        "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/",
+        "https://psnprofiles.com/trophies/grand-theft-auto-vi"
+      ],
+      "missable": true,
+      "hidden": true,
+      "kind": "other",
+      "stage": "BEFORE FINALE"
+    },
+    {
+      "id": 39,
+      "name": "Sneakthief",
+      "description": "Rob a jewelry store without being detected.",
+      "grade": "bronze",
+      "guide": "Enter and finish a jewelry-store robbery without alerting guards or triggering detection. Restart immediately if detected and keep a pre-robbery save; the clean run condition makes this missable within an attempt.",
+      "sources": [
+        "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/",
+        "https://psnprofiles.com/trophies/grand-theft-auto-vi"
+      ],
+      "missable": true,
+      "hidden": true,
+      "kind": "activities",
+      "stage": "BEFORE FINALE"
+    },
+    {
+      "id": 40,
+      "name": "Maximum Withdrawal",
+      "description": "Rob 5 Bank Vaults and escape.",
+      "grade": "silver",
+      "guide": "Rob 5 Bank Vaults and escape; use the in-game trophy tracker or activity record to confirm the requirement has registered. Work on it during free roam or post-story cleanup, and it is not missable.",
+      "sources": [
+        "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/",
+        "https://psnprofiles.com/trophies/grand-theft-auto-vi"
+      ],
+      "missable": false,
+      "hidden": true,
+      "kind": "activities",
+      "stage": "CLEANUP"
+    },
+    {
+      "id": 41,
+      "name": "A Classic Blitz Play",
+      "description": "Rob an Armored Truck and escape.",
+      "grade": "bronze",
+      "guide": "Rob an Armored Truck and escape; use the in-game trophy tracker or activity record to confirm the requirement has registered. Work on it during free roam or post-story cleanup, and it is not missable.",
+      "sources": [
+        "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/",
+        "https://psnprofiles.com/trophies/grand-theft-auto-vi"
+      ],
+      "missable": false,
+      "hidden": true,
+      "kind": "activities",
+      "stage": "CLEANUP"
+    },
+    {
+      "id": 42,
+      "name": "The Goodtime State",
+      "description": "Explore all of Leonida.",
+      "grade": "bronze",
+      "guide": "Explore all of Leonida; use the in-game trophy tracker or activity record to confirm the requirement has registered. Work on it during free roam or post-story cleanup, and it is not missable.",
+      "sources": [
+        "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/",
+        "https://psnprofiles.com/trophies/grand-theft-auto-vi"
+      ],
+      "missable": false,
+      "hidden": true,
+      "kind": "collectibles",
+      "stage": "COLLECTIBLES"
+    },
+    {
+      "id": 43,
+      "name": "Pest Control",
+      "description": "Rob an Illegal Operation belonging to each gang.",
+      "grade": "bronze",
+      "guide": "Rob an Illegal Operation belonging to each gang; use the in-game trophy tracker or activity record to confirm the requirement has registered. Work on it during free roam or post-story cleanup, and it is not missable.",
+      "sources": [
+        "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/",
+        "https://psnprofiles.com/trophies/grand-theft-auto-vi"
+      ],
+      "missable": false,
+      "hidden": true,
+      "kind": "activities",
+      "stage": "CLEANUP"
+    },
+    {
+      "id": 44,
+      "name": "In The Beginning…",
+      "description": "Enjoy a cocktail with a view on Ocean Beach.",
+      "grade": "bronze",
+      "guide": "At Ocean Beach, use the cocktail interaction at a viewpoint that satisfies the hidden clue. Do this before the final mission and keep a manual save, since the required contextual moment can be passed over.",
+      "sources": [
+        "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/",
+        "https://psnprofiles.com/trophies/grand-theft-auto-vi"
+      ],
+      "missable": true,
+      "hidden": true,
+      "kind": "other",
+      "stage": "BEFORE FINALE"
+    },
+    {
+      "id": 45,
+      "name": "Capital Offense",
+      "description": "Smash your way out of a vehicle showroom in classic style.",
+      "grade": "bronze",
+      "guide": "During the vehicle-showroom opportunity, escape by smashing a vehicle through the showroom in the manner implied by the clue. Save beforehand and replay immediately if the action does not register because it is encounter-specific.",
+      "sources": [
+        "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/",
+        "https://psnprofiles.com/trophies/grand-theft-auto-vi"
+      ],
+      "missable": true,
+      "hidden": true,
+      "kind": "other",
+      "stage": "BEFORE FINALE"
+    },
+    {
+      "id": 46,
+      "name": "Let’s Go Bowling",
+      "description": "Follow-through at the Kolt & Associates' bowling alley.",
+      "grade": "bronze",
+      "guide": "At the Kolt & Associates bowling alley, perform the required follow-through during the relevant bowling opportunity. Make a save before playing and confirm the trophy before moving on because the hidden condition is easy to overlook.",
+      "sources": [
+        "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/",
+        "https://psnprofiles.com/trophies/grand-theft-auto-vi"
+      ],
+      "missable": true,
+      "hidden": true,
+      "kind": "activities",
+      "stage": "BEFORE FINALE"
+    },
+    {
+      "id": 47,
+      "name": "Personal Best",
+      "description": "A partnership with mass appeal.",
+      "grade": "bronze",
+      "guide": "During the partnership sequence tied to a large audience, complete the hidden contextual action before the scene ends. Preserve a manual save beforehand because the official description points to a one-scene opportunity.",
+      "sources": [
+        "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/",
+        "https://psnprofiles.com/trophies/grand-theft-auto-vi"
+      ],
+      "missable": true,
+      "hidden": true,
+      "kind": "other",
+      "stage": "BEFORE FINALE"
+    },
+    {
+      "id": 48,
+      "name": "Actions Speak Louder",
+      "description": "Choices made (for better or worse).",
+      "grade": "bronze",
+      "guide": "Make the required choices across the campaign and allow each to register toward this hidden condition. Keep rotating chapter saves and finish this before the point of no return, as choices cannot always be revised afterward.",
+      "sources": [
+        "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/",
+        "https://psnprofiles.com/trophies/grand-theft-auto-vi"
+      ],
+      "missable": true,
+      "hidden": true,
+      "kind": "other",
+      "stage": "BEFORE FINALE"
+    },
+    {
+      "id": 49,
+      "name": "Bad Luck, I Guess",
+      "description": "Second time's the charm.",
+      "grade": "bronze",
+      "guide": "When the relevant failed attempt occurs, return and succeed on the second try as the clue specifies. Keep a save before the sequence and avoid skipping the retry, because later success may not reproduce the exact condition.",
+      "sources": [
+        "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/",
+        "https://psnprofiles.com/trophies/grand-theft-auto-vi"
+      ],
+      "missable": true,
+      "hidden": true,
+      "kind": "other",
+      "stage": "BEFORE FINALE"
+    },
+    {
+      "id": 50,
+      "name": "The Truth Is Out There",
+      "description": "What the hell just happened?",
+      "grade": "bronze",
+      "guide": "Stay with the unusual encounter until its final event completes and the trophy registers. Save before investigating and finish it before the finale because the hidden scene may be a one-time opportunity.",
+      "sources": [
+        "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/",
+        "https://psnprofiles.com/trophies/grand-theft-auto-vi"
+      ],
+      "missable": true,
+      "hidden": true,
+      "kind": "other",
+      "stage": "BEFORE FINALE"
+    },
+    {
+      "id": 51,
+      "name": "Ten Pin",
+      "description": "Bowl 'em over with a melee drive-by.",
+      "grade": "bronze",
+      "guide": "From a moving vehicle, use a melee strike to knock a target down and satisfy the drive-by condition. Attempt it in free roam with a clean save and confirm it registers; the action is repeatable but easy to pass over.",
+      "sources": [
+        "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/",
+        "https://psnprofiles.com/trophies/grand-theft-auto-vi"
+      ],
+      "missable": true,
+      "hidden": true,
+      "kind": "activities",
+      "stage": "BEFORE FINALE"
+    },
+    {
+      "id": 52,
+      "name": "Dime on the Dollar",
+      "description": "Earn $250,000 laundering Marked Bills through your contacts.",
+      "grade": "bronze",
+      "guide": "Earn $250,000 laundering Marked Bills through your contacts; use the in-game trophy tracker or activity record to confirm the requirement has registered. Work on it during free roam or post-story cleanup, and it is not missable.",
+      "sources": [
+        "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/",
+        "https://psnprofiles.com/trophies/grand-theft-auto-vi"
+      ],
+      "missable": false,
+      "hidden": false,
+      "kind": "activities",
+      "stage": "CLEANUP"
+    },
+    {
+      "id": 53,
+      "name": "Treat Yo Self",
+      "description": "Spend $100,000 across all shops.",
+      "grade": "bronze",
+      "guide": "Spend $100,000 across all shops; use the in-game trophy tracker or activity record to confirm the requirement has registered. Work on it during free roam or post-story cleanup, and it is not missable.",
+      "sources": [
+        "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/",
+        "https://psnprofiles.com/trophies/grand-theft-auto-vi"
+      ],
+      "missable": false,
+      "hidden": false,
+      "kind": "activities",
+      "stage": "CLEANUP"
+    },
+    {
+      "id": 54,
+      "name": "Little Boxes",
+      "description": "Purchase all garage properties.",
+      "grade": "bronze",
+      "guide": "Purchase all garage properties; use the in-game trophy tracker or activity record to confirm the requirement has registered. Work on it during free roam or post-story cleanup, and it is not missable.",
+      "sources": [
+        "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/",
+        "https://psnprofiles.com/trophies/grand-theft-auto-vi"
+      ],
+      "missable": false,
+      "hidden": false,
+      "kind": "collectibles",
+      "stage": "COLLECTIBLES"
+    },
+    {
+      "id": 55,
+      "name": "On the Spot",
+      "description": "Register 10 vehicles to the Scooter Bros app.",
+      "grade": "bronze",
+      "guide": "Register 10 vehicles to the Scooter Bros app; use the in-game trophy tracker or activity record to confirm the requirement has registered. Work on it during free roam or post-story cleanup, and it is not missable.",
+      "sources": [
+        "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/",
+        "https://psnprofiles.com/trophies/grand-theft-auto-vi"
+      ],
+      "missable": false,
+      "hidden": false,
+      "kind": "collectibles",
+      "stage": "COLLECTIBLES"
+    }
+  ]
+}

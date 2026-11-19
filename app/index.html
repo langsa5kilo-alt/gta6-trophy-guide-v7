@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Vice Ledger — GTA VI Trophy Field Guide</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="mast">
+    <div><p class="eyebrow">OFFLINE FIELD GUIDE · PS5 · 55 TROPHIES</p><h1>VICE <i>LEDGER</i></h1></div>
+    <nav><button class="tab active" data-view="list">Trophy ledger</button><button class="tab" data-view="roadmap">Platinum roadmap</button></nav>
+    <div class="mast-actions"><button id="spoilerBtn">Spoilers: shielded</button><button id="exportBtn">Export</button><label class="import">Import<input id="importInput" type="file" accept="application/json"></label></div>
+  </header>
+  <main>
+    <section class="hero">
+      <div class="ring" id="ring"><div><strong id="ringValue">0%</strong><span>PLATINUM</span></div></div>
+      <div class="hero-copy"><p class="kicker">Leonida completion desk</p><h2 id="heroTitle">One state. Fifty-five marks.</h2><p id="heroDeck">A compact route through the official PlayStation list. Your progress never leaves this browser.</p></div>
+      <div class="tier-grid" id="tierProgress"></div>
+    </section>
+
+    <section id="listView" class="workspace">
+      <aside class="filters">
+        <label class="search">SEARCH<input id="search" placeholder="Name, requirement, guide…"></label>
+        <div><p class="filter-label">GRADE</p><div id="gradeFilters" class="chips"></div></div>
+        <div><p class="filter-label">KIND</p><div id="kindFilters" class="chips"></div></div>
+        <div class="legend"><span><i class="dot miss"></i> Missable</span><span><i class="dot hidden"></i> Hidden</span></div>
+        <p id="resultCount" class="result-count"></p>
+      </aside>
+      <section class="ledger"><div class="ledger-head"><span>DONE</span><span>TROPHY / REQUIREMENT</span><span>GRADE</span></div><div id="trophyList"></div></section>
+      <aside id="detail" class="detail"></aside>
+    </section>
+
+    <section id="roadmapView" class="roadmap hidden-view">
+      <div class="road-intro"><p class="kicker">Recommended order</p><h2>Four passes. One clean platinum.</h2><p>Build natural progress first, protect every contextual opportunity, then turn the post-story map into a controlled cleanup.</p></div>
+      <div class="route">
+        <article><b>01</b><div><span>CHAPTERS 1–4</span><h3>Play wide, save often</h3><p>Complete story missions, try every activity type, explore new areas, and rotate a manual save at each chapter break.</p></div></article>
+        <article class="danger"><b>02</b><div><span>MISSABLE SWEEP</span><h3>Close the red file</h3><p>Resolve the 12 contextual trophies in the warning register below. Confirm each unlock before overwriting its setup save.</p></div></article>
+        <article class="ponr"><b>!</b><div><span>POINT OF NO RETURN</span><h3>Before the final mission</h3><p>Stop before “You Gotta Know When to Get Off.” Finish stranger strands, choices, and one-scene opportunities first; keep a pre-finale save.</p></div></article>
+        <article><b>03</b><div><span>POST-STORY</span><h3>Map and collection sweep</h3><p>Finish 250 stunts, 42 range golds, 14 drone-race wins, 18 meditation spots, 100 WAiNK locations, cards, vehicles, and exploration.</p></div></article>
+        <article><b>04</b><div><span>FINAL AUDIT</span><h3>100%, then platinum</h3><p>Clear robberies, money goals, shops, garages, registrations, and remaining challenges. Reach 100%; the platinum follows trophy 54.</p></div></article>
+      </div>
+      <aside class="warning"><p class="kicker">Manual-save register</p><h3>12 opportunities to protect</h3><div id="missableList"></div></aside>
+    </section>
+  </main>
+  <footer><span>VICE LEDGER / EDITION 01</span><span>OFFICIAL LIST · ORIGINAL GUIDANCE · OFFLINE BY DESIGN</span></footer>
+  <script src="app.js"></script>
+</body>
+</html>
