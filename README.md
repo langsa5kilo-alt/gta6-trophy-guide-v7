@@ -1,21 +1,13 @@
-[![make.fun GTA 6 Trophy Guide](https://make.fun/badge/gta6-trophy-guide-01.svg)](https://make.fun)
-[![make.fun rank](https://make.fun/badge/gta6-trophy-guide-01/langsa5kilo-alt/gta6-trophy-guide-v7/rank.svg)](https://make.fun)
-[![make.fun reward](https://make.fun/badge/gta6-trophy-guide-01/langsa5kilo-alt/gta6-trophy-guide-v7/reward.svg)](https://make.fun)
+[![make.fun · gta6-trophy-guide-01](https://make.fun/badge/gta6-trophy-guide-01.svg)](https://make.fun/bounty/gta6-trophy-guide-01)
+[![rank](https://make.fun/badge/gta6-trophy-guide-01/langsa5kilo-alt/gta6-trophy-guide-v7/rank.svg)](https://make.fun/bounty/gta6-trophy-guide-01/leaderboard)
+[![reward](https://make.fun/badge/gta6-trophy-guide-01/langsa5kilo-alt/gta6-trophy-guide-v7/reward.svg)](https://make.fun/bounty/gta6-trophy-guide-01)
 
-# Vice Ledger
+Vice Ledger is an offline GTA VI trophy guide and progress tracker for PlayStation 5. It organizes all 55 official trophies by tier and provides filters, spoiler protection, cited field notes, and a roadmap for navigating points of no return.
 
-A distinctive offline GTA VI PS5 trophy guide and progress tracker covering all 55 official trophies. It includes per-tier progress, local persistence, export/import, spoiler shielding, filters, cited field notes, and a point-of-no-return roadmap.
+Progress is saved locally in the browser, so players can track their collection without an account or internet connection. Export and import tools make it easy to back up progress or move it between devices.
 
-## Run locally
-
-Serve `app/` as the web root, for example:
+## Run
 
 ```sh
-npx serve app
-```
-
-To build the make.fun handoff:
-
-```sh
-MAKEFUN_BOT_DIR=$PWD MAKEFUN_OUTPUT_DIR=/tmp/gd7 node main.ts
+MAKEFUN_BOT_DIR=$PWD MAKEFUN_OUTPUT_DIR=./out node main.ts
 ```
